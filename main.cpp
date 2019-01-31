@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 272 - Machine Problem 2
-Fall 2018
-
 main.cpp
 
 Driver for Machine Problem 2.  This program asks for a file name from the user 

@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 272 - Machine Problem 2
-Fall 2018
-
 class.h
 
 Definition of ElectionVector, which is a vecor that will handle election results.

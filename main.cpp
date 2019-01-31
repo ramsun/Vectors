@@ -2,7 +2,7 @@
 Ramamurthy Sundar
 main.cpp
 
-Driver for Machine Problem 2.  This program asks for a file name from the user 
+Driver for program.  This program asks for a file name from the user 
 and then stores that information in vectors.  These vectors are candidate and vote
 vectors.
 
